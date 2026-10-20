@@ -2,6 +2,8 @@
 
 Programación WEB – ITLA (2026-C-003)
 
+**Estudiante:** Jezel Erislander Pujols Batista · **Matrícula:** 2025-2067 · **Carrera:** Desarrollo de Software
+
 Página personal hecha con HTML5 y CSS3: foto, nombre, apellido, teléfono, dirección, correo, hobbies, redes sociales y un video de YouTube.
 
 Para verla, abre `index.html` en el navegador.
